@@ -1,0 +1,30 @@
+{
+ "format": "myradio/station-1",
+ "name": "まみやラジオ",
+ "description": "AIとテクノロジーの、きのうの気になるニュースを、毎朝90秒で。",
+ "tagline": "AI・テック 朝のニュース",
+ "logo": "logo.svg",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "06:10",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです"
+ },
+ "credits": [
+  "声：AI音声合成"
+ ],
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}
