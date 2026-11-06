@@ -26,5 +26,7 @@
   "dir": "audio",
   "keep_days": 30
  },
- "weather": true
+ "weather": true,
+ "url": "https://mamimami33.github.io/mamiya-radio/",
+ "repo": "https://github.com/Mamimami33/mamiya-radio"
 }
