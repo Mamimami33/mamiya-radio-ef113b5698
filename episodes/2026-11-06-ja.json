@@ -253,14 +253,14 @@
     "ロボットのデータが国外に渡り、AIモデルの学習に使われることへの懸念が理由だと報じられている。",
     "ABBとソフトバンクは2025年10月にロボット部門の売却で合意していた。両社はなお協議中で、世界全体の買収が全面中止になったわけではない。"
    ],
-   "url": "https://synon.co.jp/article/news/2026-11-06-ai-tech-news",
+   "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
    "link": {
-    "description": "中国当局がソフトバンクのABBロボット事業買収を阻止したとFT・ロイターが報じた。",
+    "description": "中国当局がソフトバンクのABBロボット事業買収を阻止したとABBが発表。FTが最初に報じた。",
     "icon": null,
     "image": null,
-    "site": "Synon AI技術ニュース",
-    "title": "AI技術ニュース朝刊｜中国がソフトバンクのロボット買収を阻止",
-    "url": "https://synon.co.jp/article/news/2026-11-06-ai-tech-news"
+    "site": "Nikkei Asia",
+    "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+    "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division"
    }
   },
   {
@@ -289,14 +289,14 @@
     "申請制のセキュリティプログラム「Daybreak Red」で承認された少数の顧客だけに提供し、今後数週間でプログラムの全顧客に広げるとしている（Fortune報道）。",
     "OpenAI自身の研究報告では、Linuxなどの脆弱性948件について攻撃コード（エクスプロイト）を作成できたと公表しており、能力の高さから一般公開ではなく承認制の配布になった。"
    ],
-   "url": "https://note.com/ai_masaki/n/nf6ec62d6d3cc",
+   "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/",
    "link": {
-    "description": "OpenAIが5日、サイバーセキュリティ特化のGPT-6 Cyberを発表。攻撃コードまで書ける能力のため、承認された顧客だけに配布される。",
+    "description": "OpenAIがサイバー特化モデルGPT-6 Cyberを発表。脆弱性を見つけて攻撃コードを作れるため、承認された顧客のみに提供。Linuxの脆弱性948件に攻撃コードを作成できたと公表。",
     "icon": null,
     "image": null,
-    "site": "note（毎朝AIニュース）",
-    "title": "OpenAI、画像は全員に配りGPT-6 Cyberは承認した相手にだけ渡した",
-    "url": "https://note.com/ai_masaki/n/nf6ec62d6d3cc"
+    "site": "ロイター",
+    "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+    "url": "https://www.reuters.com/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-2026-11-05/"
    }
   },
   {
