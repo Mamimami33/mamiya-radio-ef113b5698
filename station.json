@@ -1,0 +1,32 @@
+{
+ "format": "myradio/station-1",
+ "name": "まみやラジオ",
+ "description": "AI・テックと国際情勢の、きのうの気になるニュースを、毎朝90秒で。",
+ "tagline": "AI・テック 朝のニュース",
+ "logo": "logo.svg",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "06:10",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです"
+ },
+ "credits": [
+  "声：VOICEVOX:春日部つむぎ"
+ ],
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true,
+ "url": "https://mamimami33.github.io/mamiya-radio-ef113b5698/",
+ "repo": "https://github.com/Mamimami33/mamiya-radio-ef113b5698"
+}
